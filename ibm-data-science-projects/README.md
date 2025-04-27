@@ -71,6 +71,27 @@ Cada pasta contém:
 
 ---
 
+## 🚀 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/FloraFibonacci/stunning-chainsaw/tree/main/ibm-data-science-projects
+   ```
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd ibm-data-science-projects
+   ```
+
+3. Instale as dependências necessárias (se houver):
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Abra os notebooks ou scripts dentro de cada pasta de projeto.
+
+---
+
 ## ✅ Status de Conclusão
 
 - [x] Cursos 1 a 5 concluídos

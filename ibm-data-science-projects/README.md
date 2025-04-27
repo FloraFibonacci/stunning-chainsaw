@@ -1,5 +1,11 @@
 # Projetos do Curso IBM Data Science Professional Certificate
 
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow.svg)]()
+[![Coursera](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue.svg)](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+---
+
 Este repositório reúne os projetos desenvolvidos ao longo do curso [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science), oferecido pela IBM na plataforma Coursera. O programa é composto por 10 cursos que abrangem desde os fundamentos da ciência de dados até a aplicação prática de técnicas de machine learning.
 
 ## 📚 Cursos do Programa
@@ -67,21 +73,13 @@ Cada pasta contém:
 
 ## ✅ Status de Conclusão
 
-- [x] Cursos 1 a 9 concluídos
-- [ ] Curso 10 (Capstone) em andamento
+- [x] Cursos 1 a 5 concluídos
+- [ ] Curso 6 (SQL) em andamento
 
 ## ✍️ Autor
 
 Luca (https://github.com/FloraFibonacci)
 
-
-
-## ✅ Status
-
--  [X] Cursos 1 a 5 concluídos
-    
--  [ ] Curso 6 (SQL) em andamento
-    
 
 ## 📄 Licença
 

@@ -44,21 +44,37 @@ Este repositório reúne os projetos desenvolvidos ao longo do curso [IBM Data S
 - **Ferramentas**: Jupyter Notebooks, RStudio, GitHub, Watson Studio
     
 
-## 📁 Estrutura do Repositório
+## 📚 Índice de Projetos
 
-`ibm-data-science-projects/ 
-├── curso-1-what-is-data-science/ 
-├── curso-2-tools-for-data-science/ 
-├── curso-3-data-science-methodology/ 
-├── curso-4-python-for-data-science/ 
-├── curso-5-python-project/ 
-├── curso-6-sql-for-data-science/ 
-├── curso-7-data-analysis-with-python/ 
-├── curso-8-data-visualization/ 
-├── curso-9-machine-learning/ 
-└── curso-10-capstone/`
+1. [What is Data Science?](./curso-1-what-is-data-science/README.md)
+2. [Tools for Data Science](./curso-2-tools-for-data-science/README.md)
+3. [Data Science Methodology](./curso-3-data-science-methodology/README.md)
+4. [Python for Data Science, AI & Development](./curso-4-python-for-data-science/README.md)
+5. [Python Project for Data Science](./curso-5-python-project/README.md)
+6. [Databases and SQL for Data Science with Python](./curso-6-sql-for-data-science/README.md)
+7. [Data Analysis with Python](./curso-7-data-analysis-with-python/README.md)
+8. [Data Visualization with Python](./curso-8-data-visualization/README.md)
+9. [Machine Learning with Python](./curso-9-machine-learning/README.md)
+10. [Applied Data Science Capstone](./curso-10-capstone/README.md)
 
-Cada pasta contém os notebooks, scripts e demais arquivos relacionados aos projetos desenvolvidos em cada curso.
+---
+
+Cada pasta contém:
+- 📄 Notebooks ou scripts do projeto
+- 📑 Documentação (`README.md`) explicando o objetivo, as ferramentas e como executar o projeto
+
+---
+
+## ✅ Status de Conclusão
+
+- [x] Cursos 1 a 9 concluídos
+- [ ] Curso 10 (Capstone) em andamento
+
+## ✍️ Autor
+
+Luca (https://github.com/FloraFibonacci)
+
+
 
 ## ✅ Status
 

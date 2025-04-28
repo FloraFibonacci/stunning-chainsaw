@@ -34,25 +34,25 @@ Neste curso, você aprenderá os fundamentos do Python aplicados à Ciência de 
 ## 🚀 Como Executar
 
 1. Clone este repositório:
-   ```bash
+   ```
    git clone https://github.com/FloraFibonacci/stunning-chainsaw/tree/972dc3ebb8a03f3c6f6f39142d521d9a28785d2c/ibm-data-science-projects/curso-4-python-for-data-science.git
-```
+    ```
 
 2. Acesse a pasta do projeto:
     
-    ```bash
+    ```
     cd curso-4-python-for-data-science
     ```
     
 3. Instale as dependências:
     
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
     
 4. Execute o notebook:
     
-    ```bash
+    ```
     jupyter notebook
     ```
     

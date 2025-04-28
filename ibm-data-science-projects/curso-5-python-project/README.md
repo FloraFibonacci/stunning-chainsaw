@@ -22,7 +22,7 @@ Neste projeto, você assume o papel de um Data Scientist ou Data Analyst, trabal
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-- Python 3.x
+- Python 3.11
 - Jupyter Notebooks
 - Pandas
 - Beautiful Soup

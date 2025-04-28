@@ -1,8 +1,5 @@
 ### 📄 Python para Ciência de Dados e IA
 
-```markdown
-# Projeto: Python para Ciência de Dados e IA
-
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue.svg)](https://www.coursera.org/learn/python-for-applied-data-science-ai)

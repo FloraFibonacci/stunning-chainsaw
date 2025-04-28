@@ -32,12 +32,12 @@ Neste projeto, você assume o papel de um Data Scientist ou Data Analyst, trabal
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/python-project-for-data-science.git
+   git clone https://github.com/FloraFibonacci/stunning-chainsaw/tree/972dc3ebb8a03f3c6f6f39142d521d9a28785d2c/ibm-data-science-projects/curso-5-python-project.git
    ```
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd python-project-for-data-science
+   cd curso-5-python-project
    ```
 
 3. Instale as dependências:

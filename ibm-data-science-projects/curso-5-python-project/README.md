@@ -2,9 +2,9 @@
 # Python Project for Data Science
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)]()
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue.svg)](https://www.coursera.org/learn/python-project-for-data-science)
+[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)]()
 
 ---
 
@@ -60,4 +60,4 @@ Este repositório está licenciado sob a [GNU General Public License v3.0 (GPL-3
 
 ## ✍️ Autor
 
-Projeto desenvolvido por [Luca](https://github.com/seu-usuario) como parte dos estudos em Ciência de Dados.
+Projeto desenvolvido por [Luca](https://github.com/FloraFibonacci) como parte dos estudos em Ciência de Dados.

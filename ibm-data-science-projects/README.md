@@ -1,4 +1,4 @@
-# Projetos do Curso IBM Data Science Professional Certificate
+# Curso IBM Data Science Professional Certificate
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)

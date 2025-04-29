@@ -1,7 +1,7 @@
 
 # Python Project for Data Science
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue.svg)](https://www.coursera.org/learn/python-project-for-data-science)
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)]()
@@ -22,7 +22,7 @@ Neste projeto, você assume o papel de um Data Scientist ou Data Analyst, trabal
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-- Python 3.11
+- Python 3.12
 - Jupyter Notebooks
 - Pandas
 - Beautiful Soup

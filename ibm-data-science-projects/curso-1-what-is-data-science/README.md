@@ -1,9 +1,11 @@
+# 📊 What is Data Science? — IBM/Coursera
+
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue.svg)](https://www.coursera.org/learn/python-project-for-data-science)
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)]()
 
-# 📊 What is Data Science? — IBM/Coursera
+---
 
 Este repositório acompanha meus estudos no curso **“What is Data Science?”**, oferecido pela **IBM** na plataforma **Coursera**. O curso introduz os fundamentos da Ciência de Dados, explorando seu papel no mundo atual, os perfis de cientistas de dados e as ferramentas e metodologias utilizadas na área.
 

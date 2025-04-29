@@ -1,9 +1,11 @@
+# 🛠️ Open Source Tools for Data Science — IBM/Coursera
+
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue.svg)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)]()
 
-# 🛠️ Open Source Tools for Data Science — IBM/Coursera
+---
 
 Este repositório acompanha meus estudos no curso **“Open Source Tools for Data Science”**, oferecido pela **IBM** na plataforma **Coursera**. O curso apresenta as principais ferramentas de código aberto utilizadas na Ciência de Dados, proporcionando uma base prática para quem deseja ingressar na área.
 

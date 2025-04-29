@@ -41,8 +41,8 @@ Ao final do curso, você será capaz de:
 | 2 | O que fazem os cientistas de dados | ✅ Concluído |
 | 3 | Ferramentas e métodos | ✅ Concluído |
 | 4 | Estudos de caso | ✅ Concluído |
-| 5 | O ciclo de vida da Ciência de Dados | [x] Concluído |
-| 6 | Tendências e conselhos | [x] Concluído |
+| 5 | O ciclo de vida da Ciência de Dados | ✅ Concluído |
+| 6 | Tendências e conselhos | ✅ Concluído |
 
 
 ## 📚 Recursos Úteis

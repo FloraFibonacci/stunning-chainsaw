@@ -1,7 +1,7 @@
 
 # SQL para Ciência de Dados
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue.svg)](https://www.coursera.org/learn/sql-data-science)
 [![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow.svg)]()
@@ -23,7 +23,7 @@ Neste curso, você aprenderá os fundamentos do SQL e como utilizá-lo para trab
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-- Python 3.11
+- Python 3.12
 - Jupyter Notebooks
 - SQLite
 - Pandas

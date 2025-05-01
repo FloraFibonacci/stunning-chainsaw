@@ -82,6 +82,7 @@ Ele exibirá gráficos horizontais de preços por kg separados por tipo (gatos e
 ## 🗣️ Comentários
 
 Código rodando, mas preciso fazer algumas correções, pois estruturei ele localmente, quando ainda não entendia a lógica do Github.
+Quando fiz esse curso ainda não havia aprendido SQL, então não tive uma visão do banco de dados criado. O script me retorna apenas os dados adquiridos no momento em que ele roda. Quero ampliar o escopo para fazer um histórico de cada produto. 
 
 ## 📝 Observações
 

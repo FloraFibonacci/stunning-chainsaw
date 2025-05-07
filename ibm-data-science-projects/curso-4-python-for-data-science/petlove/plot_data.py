@@ -2,7 +2,7 @@ import sqlite3
 import matplotlib.pyplot as plt
 
 # Caminho para o banco de dados
-DB_FILE = '/home/luca/Petlove/petlove_prices.db'
+DB_FILE = '/home/luca/Codes/stunning-chainsaw/ibm-data-science-projects/curso-4-python-for-data-science/petlove/petlove_prices.db'
 
 def truncate_name(name, max_length=30):
     """

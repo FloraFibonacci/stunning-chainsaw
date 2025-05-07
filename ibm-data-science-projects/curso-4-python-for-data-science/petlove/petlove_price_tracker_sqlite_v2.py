@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 from plot_data import plot_data  # Importa a função plot_data do arquivo plot_data.py
 
 ### Configurações e constantes
-DB_FILE = os.path.expanduser('/home/luca/Petlove/petlove_prices.db')
+DB_FILE = os.path.expanduser('~/Codes/stunning-chainsaw/ibm-data-science-projects/curso-4-python-for-data-science/petlove/petlove_prices.db')
 CAT_MIN_WEIGHT = 5.1
 DOG_MIN_WEIGHT = 10
 

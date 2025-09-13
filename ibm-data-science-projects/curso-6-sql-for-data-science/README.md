@@ -51,7 +51,7 @@ Neste curso, você aprenderá os fundamentos do SQL e como utilizá-lo para trab
 ## ✅ Status de Conclusão
 
 - [x] Módulo 1: Introdução ao SQL
-- [ ] Módulo 2: Trabalhando com Bancos de Dados Relacionais
+- [x] Módulo 2: Trabalhando com Bancos de Dados Relacionais
 - [ ] Módulo 3: Consultas Avançadas
 - [ ] Módulo 4: Procedimentos Armazenados e Transações
 - [ ] Projeto Final: Análise de Dados com SQL
